@@ -1,0 +1,5 @@
+#Protect Directory
+AuthName "Dialog prompt"
+AuthType Basic
+AuthUserFile /var/www/html/final.cit384/submission/.htpasswd
+Require valid-user
